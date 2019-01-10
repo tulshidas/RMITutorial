@@ -10,7 +10,7 @@ public class Constants {
     
   
    public static final String WEATHER_RAIN ="rain";
-    
+    //changed
   
    public static final String WEATHER_SUNNY ="sunny";
  
